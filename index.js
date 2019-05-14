@@ -11,21 +11,10 @@ $(document).ready(() => {
     $(".popOxi").css("display", "inline");
   });
 
-
-
-
-
-
   $(".pop").click(() => {
     $(".wrapper").css("display", "flex");
     $(".pop").css("display", "none");
     $(".popOxi").css("display", "none");
     $(".popNai").css("display", "none");
-
   });
-
-  
-
-
-
 });

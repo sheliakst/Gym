@@ -50,16 +50,16 @@ body {
 .wrapper .neon-wrapper .txt::before {
   position: absolute;
   mix-blend-mode: difference;
-  -webkit-filter: blur(2px);
-          filter: blur(2px);
+  -webkit-filter: blur(1px);
+          filter: blur(1px);
 }
 
 .wrapper .neon-wrapper .text {
-  font-size: 10vw;
+  font-size: 13vw;
 }
 
 .wrapper .neon-wrapper .text::before {
-  content: "Mpiliardaki?";
+  content: "gym?";
 }
 
 .wrapper .neon-wrapper .text3,
