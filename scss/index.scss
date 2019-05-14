@@ -30,7 +30,7 @@ body {
       &::before {
         position: absolute;
         mix-blend-mode: difference;
-        filter: blur(2px);
+        filter: blur(1px);
       }
     }
     .text {
